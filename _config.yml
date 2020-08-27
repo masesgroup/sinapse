@@ -18,6 +18,3 @@ defaults:
       header:
         overlay_image: /assets/images/sinapse_logo.png
         overlay_filter: 0.5
-        actions:
-          - label: "Download"
-            url: "https://github.com/masesgroup/sinapse/releases/"
